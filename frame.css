@@ -8,9 +8,9 @@
 
 html,
 body {
-  margin: 0;
-  padding: 0;
-  background-color: white;
+  margin: 10;
+  padding: 10;
+  background-color: #00FFFF;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
